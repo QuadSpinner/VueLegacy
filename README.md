@@ -2,6 +2,10 @@
 
 The complete QuadSpinner Vue collection open-sourced for the public!
 
+![](Images/qs14_helios.jpg)
+![](Images/TypeSmoke.jpg)
+![](Images/MontanaSunrise.jpg)
+
 As a "thank you" to all the thousands of users who supported QuadSpinner in its infancy, we have open sourced our material, MetaNode, and function library under the [Creative Commons Attribution 4.0 International](license) license. You can use it for commercial use, modify and distribute the files as long as you link back to or attribute this repository.
 
 # How to download
