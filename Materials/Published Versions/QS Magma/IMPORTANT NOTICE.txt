@@ -1,0 +1,1 @@
+Due to a minor bug, the Frozen Lava Coverage parameter is inverted. -1 equals more coverage and +1 equals less coverage. This will be fixed in a future updated.

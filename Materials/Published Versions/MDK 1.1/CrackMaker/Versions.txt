@@ -1,0 +1,1 @@
+MDK 1.1 is meant for Vue 9.5 and higher. If you are using Vue 8.5, or need the 1.0 legacy version of the MDK, please see the MDK 1.0 folder for the correct files.
