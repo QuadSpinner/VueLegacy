@@ -13,6 +13,9 @@ You can download individual files, or you can download the entire repository fro
 ![Download](Images/download-1.png)
 ![Download](Images/download-2.png)
 
+# Software Requirement and Version Compatibility
+Requires E-on Software's VUE. Most of the files were created with Vue 9.5, 10, and 11, so most recent versions will be able to open them.
+
 # Development Versions
 A special folder called "Development Versions" contains many materials from Dax Pandhi's private library that have been used in many different things, from Battlestar Galactica&reg; to God of War&reg;. Many of these are "half cooked" materials that are easily modified for various situations. Some of them are not "ready to use" and may require a bit of work, but you can learn many different techniques used in professional productions.
 
@@ -21,7 +24,7 @@ Most materials, functions graphs, and metanodes will be unlocked, or have an unl
 
 ![MDK 1.1](Images/CrackMaker___MDK_1_0_Vue_112_7_img.jpg)
 ![MDK 2 Elemental](Images/mdkSiteSplash.jpg)
-![](Images/rockCsheet.jpg)
+![MDK Options](Images/rockCsheet.jpg)
 
 # Contents
 - MDK 1.1/1.0 (unlocked)
@@ -37,6 +40,8 @@ Most materials, functions graphs, and metanodes will be unlocked, or have an unl
 - Ice and Magma
 - QS Rocks
 - The Defenders / The Invasion
+- 120+ materials from QuadSpinner's private library
+- More content will be added
 
 # Updates
 This collection is not complete. We will keep adding to it over the next several weeks. To stay updated, click the "WATCH" button at the top of the page.
