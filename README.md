@@ -6,7 +6,6 @@ The complete QuadSpinner Vue collection open-sourced for the public!
 
 ![](Images/qs14_helios.jpg)
 ![](Images/TypeSmoke.jpg)
-![](Images/MontanaSunrise.jpg)
 
 As a "thank you" to all the thousands of users who supported QuadSpinner in its infancy, we have open sourced our material, MetaNode, and function library under the [Creative Commons Attribution 4.0 International](license) license. You can use it for commercial use, modify and distribute the files as long as you link back to or attribute this repository.
 
@@ -30,6 +29,7 @@ Most materials, functions graphs, and metanodes will be unlocked, or have an unl
 ![MDK Options](Images/rockCsheet.jpg)
 
 # Contents
+- Master Class Los Angeles
 - MDK 1.1/1.0 (unlocked)
 - MDK Elemental (unlocked)
 - Arenite Warriors
@@ -45,6 +45,10 @@ Most materials, functions graphs, and metanodes will be unlocked, or have an unl
 - The Defenders / The Invasion
 - 120+ materials from QuadSpinner's private library
 - More content will be added
+
+# Master Class Videos
+![](Images/MontanaSunrise.jpg)
+The complete Master Class video content is also open sourced on our [YouTube Channel](https://www.youtube.com/playlist?list=PLEimej2Avz9lFubwn3UrrI78-rhtMp3HW).
 
 # Updates
 This collection is not complete. We will keep adding to it over the next several weeks. To stay updated, click the "WATCH" button at the top of the page.
