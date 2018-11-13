@@ -11,8 +11,9 @@ The complete QuadSpinner Vue collection open-sourced for the public!
 As a "thank you" to all the thousands of users who supported QuadSpinner in its infancy, we have open sourced our material, MetaNode, and function library under the [Creative Commons Attribution 4.0 International](license) license. You can use it for commercial use, modify and distribute the files as long as you link back to or attribute this repository.
 
 # How to download
-You can download individual files, or you can download the entire repository from this page.
+You can download individual files...
 ![Download](Images/download-1.png)
+or you can download the entire repository from this page.
 ![Download](Images/download-2.png)
 
 # Software Requirement and Version Compatibility
@@ -49,4 +50,4 @@ Most materials, functions graphs, and metanodes will be unlocked, or have an unl
 This collection is not complete. We will keep adding to it over the next several weeks. To stay updated, click the "WATCH" button at the top of the page.
 
 # Need help?
-There are wonderful Vue communities (such as on Facebook) out there who will be able to help you! Unfortunately we cannot provide technical support or usage advice for these products.
+You can open an [issue](https://github.com/QuadSpinner/VueLegacy/issues). Please note, this is not a commercial product so we cannot always provide help quickly. There are wonderful Vue communities (such as on Facebook) out there who will be able to help you if you have urgent needs!
