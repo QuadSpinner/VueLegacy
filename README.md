@@ -16,7 +16,7 @@ or you can download the entire repository from this page.
 ![Download](Images/download-2.png)
 
 # Software Requirement and Version Compatibility
-Requires E-on Software's VUE. Most of the files were created with Vue 9.5, 10, and 11, so most recent versions will be able to open them.
+Requires E-on Software's VUE. Most of the files were created with Vue 7.5, 8, 9.5, 10.5, and 11.5 (we loved the .5 versions!) so most recent versions will be able to open them.
 
 # Development Versions
 A special folder called "Development Versions" contains many materials from Dax Pandhi's private library that have been used in many different things, from Battlestar Galactica&reg; to God of War&reg;. Many of these are "half cooked" materials that are easily modified for various situations. Some of them are not "ready to use" and may require a bit of work, but you can learn many different techniques used in professional productions.
